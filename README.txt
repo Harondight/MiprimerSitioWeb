@@ -1,3 +1,13 @@
+Sitio web donde se mostrara una seria de recomendaciones de videojuegos de los cuales
+a mi parecer son de los mejores que he jugado, desde la narrativa, la trama, la musica,
+exploracion y hasta acertijos
+
+Hecho por Luis Angel Haro Salazar
+
+
+
+=======================================================================================================================
+
 Story by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)

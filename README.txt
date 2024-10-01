@@ -2,8 +2,9 @@ Sitio web donde se mostrara una seria de recomendaciones de videojuegos de los c
 a mi parecer son de los mejores que he jugado, desde la narrativa, la trama, la musica,
 exploracion y hasta acertijos
 
-Hecho por Luis Angel Haro Salazar
-
+Hecho por: Luis Angel Haro Salazar
+Para la tarea #2 de Programacion para internet
+Profesor: Jose Luis David Bonilla Carranza
 
 
 =======================================================================================================================
